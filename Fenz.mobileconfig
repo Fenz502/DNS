@@ -31,16 +31,13 @@
 <key>PayloadDescription</key>
 <string>NextDNS Create By Fenz 🇲🇾
 
-- Author : Fenz
+- Author : Fenz🇲🇾
 - Create Date : 8/6/2023
 - IG : fenzy_.
 - Weakness Disgusts Me
 </string>
 <key>PayloadDisplayName</key>
-<string>NextDNS By Fenz/- Author : Fenz🇲🇾/
-- Create Date : 8/6/2023/
-- IG : fenzy_.
-- Weakness Disgusts Me</string>
+<string>NextDNS By Fenz🇲🇾</string>
 <key>PayloadIdentifier</key>
 <string>ultralow.dns.nextdns.io</string>
 <key>PayloadScope</key>
