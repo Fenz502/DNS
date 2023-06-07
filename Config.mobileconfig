@@ -14,7 +14,7 @@
        <string>https://ultralow.dns.nextdns.io/aab37f</string>
 	</dict>
 	<key>PayloadDisplayName</key>
-	<string>Xác Minh App</string>
+	<string>Verify App</string>
 	<key>PayloadIdentifier</key>
 	<string>11111111</string>
 	<key>PayloadType</key>
