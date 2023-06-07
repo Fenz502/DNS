@@ -51,9 +51,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://apple.dns.nextdns.io/32eda7/
-DNS%20By%20Fendy's/
-Apple%20iPhone12%2C5</string>
+	<string>https://ultralow.dns.nextdns.io/881bd9</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Block Withdrawal Ads</string>
