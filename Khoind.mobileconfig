@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//VI" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>PayloadContent</key>
+<array>
+
+<dict>
+<key>DNSSettings</key>
+<dict>
+<key>DNSProtocol</key>
+<string>HTTPS</string>
+<key>ServerURL</key>
+<string>https://dns.nextdns.io/aab37f</string>
+</dict>
+<key>PayloadDisplayName</key>
+<string>Chặn Thu Hồi</string>
+<key>PayloadIdentifier</key>
+<string>HDHFJFKF</string>
+<key>PayloadOrganization</key>
+<string>khơindvn</string>
+<key>PayloadType</key>
+<string>com.apple.dnsSettings.managed</string>
+<key>PayloadUUID</key>
+<string>DHJDJFKGG</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+
+</array>
+<key>PayloadDescription</key>
+<string>NextDNS Editor By Khơindvn 🇻🇳
+
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
+
+</string>
+<key>PayloadDisplayName</key>
+<string>NextDNS By Khơindvn</string>
+<key>PayloadIdentifier</key>
+<string>ultralow.dns.nextdns.io</string>
+<key>PayloadScope</key>
+<string>User</string>
+<key>PayloadType</key>
+<string>Configuration</string>
+<key>PayloadUUID</key>
+<string>CHJFKGGIIG</string>
+<key>PayloadVersion</key>
+<integer>1</integer>
+</dict>
+</plist>
+Khơindvn
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
