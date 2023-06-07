@@ -51,7 +51,7 @@
        <key>DNSProtocol</key>
        <string>HTTPS</string>
        <key>ServerURL</key>
-	<string>https://ultralow.dns.nextdns.io/881bd9</string>
+	<string>https://ultralow.dns.nextdns.io/32eda7</string>
 	</dict>
 	<key>PayloadDisplayName</key>
 	<string>Block Withdrawal Ads</string>
