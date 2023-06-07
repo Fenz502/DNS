@@ -14,11 +14,11 @@
 <string>https://dns.nextdns.io/aab37f</string>
 </dict>
 <key>PayloadDisplayName</key>
-<string>Chặn Thu Hồi</string>
+<string>Block Withdrawal</string>
 <key>PayloadIdentifier</key>
 <string>HDHFJFKF</string>
 <key>PayloadOrganization</key>
-<string>khơindvn</string>
+<string>Fenz</string>
 <key>PayloadType</key>
 <string>com.apple.dnsSettings.managed</string>
 <key>PayloadUUID</key>
@@ -29,21 +29,15 @@
 
 </array>
 <key>PayloadDescription</key>
-<string>NextDNS Editor By Khơindvn 🇻🇳
+<string>NextDNS Create By Fenz
 
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-- Cấu hình Chặn thu hồi Vip 1 năm của bác Khơi
-
+- Author : Fenz
+- Create Date : 8/6/2023
+- IG : fenzy_.
+- Weakness Disgusts Me
 </string>
 <key>PayloadDisplayName</key>
-<string>NextDNS By Khơindvn</string>
+<string>NextDNS By Fenz</string>
 <key>PayloadIdentifier</key>
 <string>ultralow.dns.nextdns.io</string>
 <key>PayloadScope</key>
@@ -56,7 +50,7 @@
 <integer>1</integer>
 </dict>
 </plist>
-Khơindvn
+Fenz
 
 
 
